@@ -1,0 +1,118 @@
+{
+  "appId": "ak-h3-willem",
+  "title": "Aardrijkskunde H3",
+  "shortName": "AK H3",
+  "subtitle": "Water",
+  "description": "Quiz app voor Aardrijkskunde H3 Water - buiteNLand 2 vwo",
+  "studentName": "Willem",
+  "greeting": "Hoi Willem! Klaar om te stampen?",
+  "lang": "nl",
+  "storageKey": "ak-h3-willem-progress",
+  "theme": {
+    "primary": "#2563eb",
+    "light": "#60a5fa",
+    "dark": "#1d4ed8",
+    "bg": "#eff6ff",
+    "bgAccent": "#dbeafe"
+  },
+  "gridColumns": 2,
+  "dataFiles": ["data/vragen.json"],
+  "badges": {
+    "1": { "name": "Kringloopmmeester", "emoji": "🔄" },
+    "2": { "name": "Waterexpert", "emoji": "💧" },
+    "3": { "name": "Stroomjager", "emoji": "🌊" },
+    "4": { "name": "Balanshouder", "emoji": "⚖️" },
+    "5": { "name": "Neerslagkenner", "emoji": "🌧️" },
+    "6": { "name": "Duurzaamheidspro", "emoji": "♻️" },
+    "7": { "name": "Overstromingsanalist", "emoji": "🚨" },
+    "8": { "name": "Klimaatonderzoeker", "emoji": "🌡️" },
+    "9": { "name": "Dijkenbouwer", "emoji": "🧱" },
+    "10": { "name": "Schaarstekenner", "emoji": "🏜️" },
+    "11": { "name": "Vredesstichter", "emoji": "🕊️" },
+    "12": { "name": "Waterbespaarder", "emoji": "🚿" },
+    "13": { "name": "Begrippenbaas", "emoji": "📚" }
+  },
+  "correctMsgs": [
+    "Je kent je waterkringloop als de beste!",
+    "Daar kan geen hydroloog tegenop!",
+    "Slimmer dan Rijkswaterstaat!",
+    "Je spoelt alle fouten weg!",
+    "Je navigeert door de stof als water door een delta!",
+    "Sterker dan een stormvloedkering!",
+    "Top! Je bent klaar voor het proefwerk!",
+    "De Deltacommissaris zou je aannemen!",
+    "Knap! Je kent je waterbeheer!",
+    "Je stroomt door deze quiz!",
+    "Beter dan een dijkgraaf!",
+    "Aardrijkskundeheld! Ga zo door!",
+    "Je debietniveau aan kennis is enorm!",
+    "Water? Geen probleem voor jou!",
+    "Je bent de Golfstroom onder de quizzers!",
+    "Geen twijfel, jij kent je stof!"
+  ],
+  "wrongMsgs": [
+    "Zelfs Rijkswaterstaat maakt fouten...",
+    "Die kennis zit nog even in de waterkringloop!",
+    "Niet getreurd, ook dijken worden versterkt!",
+    "Oeps! Maar je leert ervan, net als bij waterbeheer.",
+    "Geen stress, hydrologie is ook complex!",
+    "Foutje! Maar oefening baart een waterexpert.",
+    "Dat antwoord stroomde de verkeerde kant op!",
+    "Au! Maar de volgende vraag gaat beter.",
+    "Hmm, dat was meer eb dan vloed.",
+    "Nog eentje oefenen en je hebt het!",
+    "Niet opgeven! Deltawerken werden ook niet in een dag gebouwd!",
+    "Ach, morgen weet je het wel!",
+    "Oeps! Maar elke fout is een les.",
+    "Bijna! Net als bijna-duurzaam waterbeheer.",
+    "Foutje bedankt! Lees de uitleg goed.",
+    "Geen paniek, de volgende vraag is jouw doorbraak!"
+  ],
+  "resultsMsgs": {
+    "perfect": [
+      "Absoluut briljant! Je bent klaar voor het proefwerk!",
+      "Perfecte score! De aardrijkskundeleraar gaat steil achterover!"
+    ],
+    "great": [
+      "Uitstekend! Je beheerst de stof als een echte geograaf!",
+      "Geweldig resultaat! Nog even de puntjes op de i."
+    ],
+    "good": [
+      "Goed bezig! Nog een paar rondes en je zit op een 10!",
+      "Prima score! Focus op de rode vragen en je bent er bijna."
+    ],
+    "okay": [
+      "Een goede start! Herhaal de zwakke leerdoelen.",
+      "Je bent op weg! Probeer de flashcards voor de moeilijke topics."
+    ],
+    "low": [
+      "Niet getreurd! Rome is ook niet in een dag gebouwd.",
+      "Dit is je startpunt. Gebruik de flashcards en probeer opnieuw!"
+    ]
+  },
+  "confettiColors": ["#2563eb", "#3b82f6", "#f59e0b", "#ef4444", "#22c55e", "#ec4899"],
+  "uiStrings": {
+    "correct": "Goed!",
+    "wrong": "Helaas, fout!",
+    "next": "Volgende",
+    "seeResults": "Bekijk resultaten",
+    "stop": "Stoppen",
+    "confirmStop": "Wil je de quiz stoppen? Je voortgang wordt opgeslagen.",
+    "confirmReset": "Weet je zeker dat je alle voortgang wilt wissen? Dit kan niet ongedaan worden.",
+    "noProgress": "Begin met een quiz om je voortgang te zien!",
+    "selectAll": "Selecteer alle juiste antwoorden",
+    "check": "Controleer",
+    "checkOrder": "Controleer volgorde",
+    "typAnswer": "Typ je antwoord...",
+    "correctAnswer": "Juiste antwoord",
+    "correctOrder": "Juiste volgorde",
+    "answer": "Antwoord",
+    "earnedOn": "Verdiend op",
+    "typeLabels": {
+      "multiple_choice": "Meerkeuze",
+      "choose_all_that_apply": "Meerdere antwoorden",
+      "invullen": "Invullen",
+      "volgorde": "Volgorde"
+    }
+  }
+}

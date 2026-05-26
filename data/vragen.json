@@ -1,0 +1,1100 @@
+{
+  "vak": "Aardrijkskunde",
+  "hoofdstuk": "H3 Water",
+  "methode": "buiteNLand 2 vwo",
+  "scope": "H3 (par 3.1-3.4 + Begrippen)",
+  "totaal_vragen": 80,
+  "leerdoelen": [
+    {
+      "paragraaf": "3.1",
+      "uitleg_tekst": "Water op aarde is voortdurend in beweging via de waterkringloop. In de korte kringloop verdampt zeewater en valt als neerslag terug in dezelfde zee. In de lange kringloop valt neerslag op het vasteland en kan het miljoenen jaren duren voordat het water terug in zee is. Van al het water op aarde is maar 1% zoet en bereikbaar. Water zit opgeslagen als oppervlaktewater, grondwater en landijs. Zeestromen ontstaan door wind en door de diepwaterpomp, en beïnvloeden het klimaat van kustgebieden.",
+      "subdoelen": [
+        {
+          "subdoel_id": "1.1",
+          "subdoel_titel": "De waterkringloop",
+          "uitleg_tekst": "Bij de korte waterkringloop verdampt zeewater en valt direct als neerslag terug in dezelfde zee. Bij de lange waterkringloop valt de neerslag op het vasteland en keert het water via rivieren, grondwater of smeltende ijskappen terug naar zee.",
+          "vragen": [
+            {
+              "id": 1,
+              "type": "multiple_choice",
+              "vraag": "Wat is het verschil tussen de korte en de lange waterkringloop?",
+              "opties": [
+                "De korte kringloop duurt korter dan een dag, de lange langer dan een jaar",
+                "De korte kringloop vindt plaats boven de tropen, de lange boven de polen",
+                "De korte kringloop vindt alleen plaats boven de tropen en duurt altijd kort",
+                "Bij de korte kringloop valt neerslag terug in zee, bij de lange op het vasteland"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Bij de korte waterkringloop verdampt zeewater en valt het als neerslag direct terug in dezelfde zee. Bij de lange kringloop komt de neerslag op het vasteland terecht en keert het water uiteindelijk via rivieren, grondwater of smeltend ijs terug naar zee.",
+              "afbeelding": "images/bron6_waterkringloop.png"
+            },
+            {
+              "id": 2,
+              "type": "multiple_choice",
+              "vraag": "Waarom kan het bij de lange waterkringloop miljoenen jaren duren voordat water terug in zee is?",
+              "opties": [
+                "Omdat rivieren heel langzaam stromen over het vasteland naar zee",
+                "Omdat water vastgevroren kan raken in ijskappen zoals op Antarctica",
+                "Omdat grondwater diep in de aardkorst terechtkomt en daar blijft",
+                "Omdat verdamping boven het vasteland veel langer duurt dan boven zee"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Sneeuw die bijvoorbeeld op Antarctica valt, kan als ijs miljoenen jaren vastzitten in de ijskap voordat het als smeltwater terugkeert in zee. Dat maakt de lange kringloop soms extreem lang."
+            },
+            {
+              "id": 3,
+              "type": "invullen",
+              "vraag": "Een regenbui boven de Noordzee die direct als neerslag terugvalt in diezelfde zee, hoort bij de ... waterkringloop.",
+              "juiste_antwoord": "korte",
+              "uitleg": "Als verdampt zeewater direct als neerslag terugvalt in dezelfde zee, is dat de korte waterkringloop. Pas als de neerslag op het vasteland terechtkomt, spreken we van de lange waterkringloop."
+            },
+            {
+              "id": 4,
+              "type": "choose_all_that_apply",
+              "vraag": "Welke uitspraken over de waterkringloop zijn juist?",
+              "opties": [
+                "De hoeveelheid water in de kringloop blijft altijd gelijk",
+                "Een regenbui boven Utrecht zit in de korte waterkringloop",
+                "Water kan als waterdamp in de atmosfeer voorkomen",
+                "De korte kringloop duurt altijd minder dan een dag"
+              ],
+              "juiste_antwoorden": [
+                0,
+                2
+              ],
+              "uitleg": "De totale hoeveelheid water op aarde blijft gelijk, het verandert alleen van vorm. Water kan inderdaad als waterdamp in de atmosfeer zitten. Een regenbui boven Utrecht valt op het vasteland, dus dat is de lange kringloop. De korte kringloop kan ook langer duren.",
+              "afbeelding": "images/bron6_waterkringloop.png"
+            },
+            {
+              "id": 5,
+              "type": "volgorde",
+              "vraag": "Zet de stappen van de lange waterkringloop in de juiste volgorde.",
+              "opties": {
+                "A": "Verdamping van zeewater",
+                "B": "Neerslag valt op het vasteland",
+                "C": "Water stroomt via rivieren terug naar zee",
+                "D": "Waterdamp condenseert tot wolken"
+              },
+              "juiste_antwoord": "1:A, 2:D, 3:B, 4:C",
+              "uitleg": "Eerst verdampt zeewater, dan condenseert de waterdamp tot wolken, vervolgens valt er neerslag op het vasteland, en ten slotte stroomt het water via rivieren terug naar zee.",
+              "afbeelding": "images/bron6_waterkringloop.png"
+            }
+          ]
+        },
+        {
+          "subdoel_id": "1.2",
+          "subdoel_titel": "Verdeling van het water",
+          "uitleg_tekst": "Van al het water op aarde is maar 1% zoet en bereikbaar voor de mens. Water komt voor als oppervlaktewater (zichtbaar: oceanen, rivieren, meren), grondwater (onzichtbaar in bodem/gesteente) en landijs (vastgevroren op het vasteland). 69% van al het zoete water zit vast in ijs.",
+          "vragen": [
+            {
+              "id": 6,
+              "type": "multiple_choice",
+              "vraag": "Hoeveel procent van al het water op aarde is zoet en bereikbaar voor de mens?",
+              "opties": [
+                "Ongeveer 30 procent, vooral opgeslagen als grondwater in de aardkorst",
+                "Ongeveer 10 procent, vooral in rivieren",
+                "Ongeveer 1 procent, de rest is zout of onbereikbaar",
+                "Ongeveer 5 procent, vooral in meren en rivieren"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Van al het water op aarde is uiteindelijk maar 1% zoet én bereikbaar voor de mens. Het meeste water is zout (oceanen) of zit vastgevroren in ijskappen en gletsjers.",
+              "afbeelding": "images/bron7_verdeling_water.png"
+            },
+            {
+              "id": 7,
+              "type": "invullen",
+              "vraag": "Water dat niet zichtbaar is omdat het in de bodem en in gesteenten is getrokken, noemen we ...",
+              "juiste_antwoord": "grondwater",
+              "uitleg": "Grondwater is water dat je niet met het blote oog kunt zien, omdat het in de bodem en in gesteenten getrokken is. Het meeste drinkwater in Nederland wordt gemaakt van grondwater."
+            },
+            {
+              "id": 8,
+              "type": "multiple_choice",
+              "vraag": "Waar zit het meeste zoete water op aarde opgeslagen?",
+              "opties": [
+                "In rivieren en meren op het aardoppervlak",
+                "In landijs en gletsjers op het vasteland",
+                "Als grondwater diep in de aardkorst",
+                "Als waterdamp in de atmosfeer"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Maar liefst 69% van al het zoete water op aarde zit vast in landijs en gletsjers. Grondwater is de op een na grootste voorraad zoet water.",
+              "afbeelding": "images/bron7_verdeling_water.png"
+            },
+            {
+              "id": 9,
+              "type": "choose_all_that_apply",
+              "vraag": "Welke uitspraken over de verdeling van water op aarde zijn juist?",
+              "opties": [
+                "70% van het aardoppervlak is bedekt met water",
+                "Het meeste drinkwater in Nederland komt uit rivieren",
+                "Waterdamp in de atmosfeer is acht keer zoveel als het water in alle rivieren samen",
+                "Door het smelten van de Noordpool komt er veel meer drinkwater beschikbaar"
+              ],
+              "juiste_antwoorden": [
+                0,
+                2
+              ],
+              "uitleg": "Inderdaad is 70% van het aardoppervlak bedekt met water, en er zit acht keer zoveel waterdamp in de atmosfeer als in alle rivieren samen. Het meeste drinkwater in Nederland komt uit grondwater, niet uit rivieren. De Noordpool bestaat uit zee-ijs, dus smelten daarvan levert geen extra drinkwater op.",
+              "afbeelding": "images/bron7_verdeling_water.png"
+            },
+            {
+              "id": 10,
+              "type": "invullen",
+              "vraag": "Water dat je kunt zien, zoals in oceanen, rivieren en meren, noemen we ...",
+              "juiste_antwoord": "oppervlaktewater",
+              "uitleg": "Oppervlaktewater is al het water dat je kunt zien: het water in oceanen, zeeën, rivieren en meren. Het tegenovergestelde is grondwater, dat onzichtbaar in de bodem zit."
+            },
+            {
+              "id": 11,
+              "type": "invullen",
+              "vraag": "IJsmassa's die op het vasteland liggen, noemen we ...",
+              "juiste_antwoord": "landijs",
+              "uitleg": "Landijs zijn ijsmassa's die op het vasteland liggen, zoals de ijskappen op Antarctica en Groenland. Hierin zit 69% van al het zoete water op aarde opgeslagen."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "1.3",
+          "subdoel_titel": "Zeestromen en de diepwaterpomp",
+          "uitleg_tekst": "Zeestromen ontstaan doordat wind langdurig uit dezelfde richting waait over zee. Warme zeestromen brengen warmte naar de polen, koude zeestromen koelen de tropen af. De diepwaterpomp is een circulatie waarbij warm, verdampend water zouter en zwaarder wordt, bij de polen naar de diepte zinkt, en langs de bodem terugstroomt naar de evenaar.",
+          "vragen": [
+            {
+              "id": 12,
+              "type": "multiple_choice",
+              "vraag": "Hoe ontstaan de meeste zeestromen?",
+              "opties": [
+                "Door temperatuurverschillen tussen dag en nacht",
+                "Door aardbevingen en vulkaanuitbarstingen op de zeebodem",
+                "Door het draaien van de aarde om haar eigen as",
+                "Door wind die langdurig uit dezelfde richting waait"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Zeestromen ontstaan doordat de wind boven zee langdurig uit dezelfde richting waait. Het water volgt dan de richting van de wind, net als een blad of een wolk."
+            },
+            {
+              "id": 13,
+              "type": "multiple_choice",
+              "vraag": "Welk effect heeft de Golfstroom op het klimaat van West-Europa?",
+              "opties": [
+                "Het zorgt voor meer droogte langs de kust",
+                "Het heeft geen meetbaar effect op het klimaat",
+                "Het maakt het klimaat warmer en milder",
+                "Het veroorzaakt meer stormen in de winter"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "De Golfstroom brengt warm water uit de Golf van Mexico naar de westkust van Europa. Dit warme water verwarmt als een soort kacheltje de omgeving, waardoor West-Europa een relatief mild klimaat heeft.",
+              "afbeelding": "images/bron9_diepwaterpomp.png"
+            },
+            {
+              "id": 14,
+              "type": "invullen",
+              "vraag": "De circulatie waarbij zout, koud water bij de polen naar de diepte zinkt en langs de bodem terugstroomt naar de evenaar, heet de ...",
+              "juiste_antwoord": "diepwaterpomp",
+              "uitleg": "De diepwaterpomp is het proces waarbij warm water dat van de tropen naar de polen stroomt, onderweg verdampt, zouter en zwaarder wordt, en bij de polen naar de diepte zinkt. Dit koude water stroomt dan langs de zeebodem terug richting de evenaar."
+            },
+            {
+              "id": 15,
+              "type": "choose_all_that_apply",
+              "vraag": "Welke uitspraken over de diepwaterpomp zijn juist?",
+              "opties": [
+                "Warm water dat naar de polen stroomt, wordt onderweg zouter door verdamping",
+                "Het zoutere water is lichter en stijgt op bij de polen",
+                "Op de plek waar koud water zinkt, stroomt aan het oppervlak nieuw water toe",
+                "De diepwaterpomp werkt alleen in de Atlantische Oceaan"
+              ],
+              "juiste_antwoorden": [
+                0,
+                2
+              ],
+              "uitleg": "Het warme water wordt inderdaad zouter door verdamping en daardoor zwaarder (niet lichter), waardoor het zinkt. Op de plek waar het water zinkt, ontstaat ruimte die wordt opgevuld door toestromend water. De diepwaterpomp werkt in meerdere oceanen.",
+              "afbeelding": "images/bron9_diepwaterpomp.png"
+            },
+            {
+              "id": 16,
+              "type": "volgorde",
+              "vraag": "Zet de stappen van de diepwaterpomp in de juiste volgorde.",
+              "opties": {
+                "A": "Warm water stroomt van de tropen naar de polen",
+                "B": "Het water verdampt deels en wordt zouter en zwaarder",
+                "C": "Het koude, zoute water zinkt naar de diepte",
+                "D": "Het water stroomt langs de bodem terug naar de evenaar"
+              },
+              "juiste_antwoord": "1:A, 2:B, 3:C, 4:D",
+              "uitleg": "Eerst stroomt warm water van de tropen naar de polen. Onderweg verdampt het deels, waardoor het zouter en zwaarder wordt. Bij de polen zinkt dit zware water naar de diepte. Ten slotte stroomt het langs de bodem terug richting de evenaar, waar het weer opwarmt.",
+              "afbeelding": "images/bron9_diepwaterpomp.png"
+            },
+            {
+              "id": 17,
+              "type": "invullen",
+              "vraag": "Een verplaatsing van een grote massa zeewater in een vaste richting noemen we een ...",
+              "juiste_antwoord": "zeestroom",
+              "uitleg": "Een zeestroom is een verplaatsing van een grote massa zeewater in een vaste richting. Zeestromen kunnen warm of koud zijn en hebben grote invloed op het klimaat van kustgebieden."
+            },
+            {
+              "id": 18,
+              "type": "multiple_choice",
+              "vraag": "Waarom wordt het water dat van de tropen naar de polen stroomt steeds zouter?",
+              "opties": [
+                "Omdat er voortdurend zout van de zeebodem oplost in het stromende water",
+                "Omdat het water verdampt maar het zout achterblijft",
+                "Omdat koud water van nature meer zout bevat",
+                "Omdat er zout rivierwater uit de tropen bijstroomt"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Het warme water dat naar de polen stroomt, verdampt onderweg deels. Bij verdamping gaat alleen zuiver water de lucht in; het zout blijft achter in het zeewater. Hierdoor wordt het resterende water steeds zouter en zwaarder."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paragraaf": "3.2",
+      "uitleg_tekst": "De waterbalans laat zien hoeveel water een gebied binnenkomt en weer uit gaat. Een gebied kan op vier manieren aan water komen: door neerslag, aanvoer uit andere gebieden (rivieren), fossiel water (aquifer) en virtueel water (verborgen in geïmporteerde producten). Nuttige neerslag is het water dat overblijft om het grondwater aan te vullen. Bij duurzaam waterbeheer gebruik je alleen vernieuwbaar water; bij waterverbruik raak je niet-vernieuwbare bronnen op.",
+      "subdoelen": [
+        {
+          "subdoel_id": "2.1",
+          "subdoel_titel": "De waterbalans",
+          "uitleg_tekst": "Een waterbalans is een overzicht van hoeveel water een gebied binnenkomt en weer uit gaat. Gebieden komen aan water door neerslag, aanvoer uit andere gebieden (bijv. rivieren), fossiel water (uit aquifers) en virtueel water (verborgen in producten).",
+          "vragen": [
+            {
+              "id": 19,
+              "type": "invullen",
+              "vraag": "Een overzicht van hoeveel water een gebied binnenkomt en weer uit gaat, noemen we een ...",
+              "juiste_antwoord": "waterbalans",
+              "uitleg": "De waterbalans is een overzicht van alle water dat een gebied binnenkomt (neerslag, rivieren, fossiel water, virtueel water) en alle water dat het gebied weer verlaat (verdamping, afvoer).",
+              "afbeelding": "images/bron11_waterbalans.png"
+            },
+            {
+              "id": 20,
+              "type": "choose_all_that_apply",
+              "vraag": "Op welke manieren kan een gebied aan zoet water komen?",
+              "opties": [
+                "Door neerslag",
+                "Door aanvoer van water uit andere gebieden (bijv. rivieren)",
+                "Door fossiel water uit aquifers",
+                "Door zeewater direct te drinken"
+              ],
+              "juiste_antwoorden": [
+                0,
+                1,
+                2
+              ],
+              "uitleg": "Een gebied kan op vier manieren aan water komen: neerslag, aanvoer uit andere gebieden (rivieren/grondwater), fossiel water uit aquifers, en virtueel water in geïmporteerde producten. Zeewater is zout en niet direct drinkbaar.",
+              "afbeelding": "images/bron11_waterbalans.png"
+            },
+            {
+              "id": 21,
+              "type": "multiple_choice",
+              "vraag": "Wat is virtueel water?",
+              "opties": [
+                "Water dat verdampt is en als wolken in de atmosfeer zit boven het vasteland",
+                "De hoeveelheid water die verborgen zit in geïmporteerde producten",
+                "Water dat door computers en technologie wordt beheerd",
+                "Water dat kunstmatig is aangemaakt in een fabriek"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Virtueel water is de hoeveelheid water die nodig is om een product te maken. Voor 1 kilo graan is bijna 2000 liter water nodig. Door graan te importeren voer je dus eigenlijk verborgen water in."
+            },
+            {
+              "id": 22,
+              "type": "multiple_choice",
+              "vraag": "Hoeveel liter water verbruikt de gemiddelde Nederlander per jaar via virtueel water, zonder een kraan open te draaien?",
+              "opties": [
+                "Ongeveer 150.000 liter per jaar",
+                "Ongeveer 1,5 miljoen liter per jaar",
+                "Ongeveer 500.000 liter per jaar",
+                "Ongeveer 5 miljoen liter per jaar aan kraanwater"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "De gemiddelde Nederlander verbruikt 1,5 miljoen liter water per jaar via virtueel water, dus water dat verborgen zit in geïmporteerde producten zoals voedsel en kleding."
+            },
+            {
+              "id": 23,
+              "type": "invullen",
+              "vraag": "Een waterhoudende laag in de ondergrond die als een soort 'waterspaarpot' werkt, noemen we een ...",
+              "juiste_antwoord": "aquifer",
+              "uitleg": "Een aquifer is een waterhoudende laag in de ondergrond. In droge gebieden zoals Libië worden aquifers gebruikt om 'fossiel water' op te pompen dat er al duizenden jaren zit.",
+              "afbeelding": "images/bron12_aquifer.png"
+            },
+            {
+              "id": 24,
+              "type": "invullen",
+              "vraag": "'Oud' water uit de grond dat stamt uit eerdere tijdvakken noemen we ... water.",
+              "juiste_antwoord": "fossiel",
+              "uitleg": "Fossiel water is 'oud' water dat soms al duizenden jaren in de ondergrond zit opgeslagen, vaak in een aquifer. In woestijngebieden wordt dit water opgepompt, maar het wordt niet of nauwelijks aangevuld.",
+              "afbeelding": "images/bron12_aquifer.png"
+            }
+          ]
+        },
+        {
+          "subdoel_id": "2.2",
+          "subdoel_titel": "Nuttige neerslag en waterhuishouding",
+          "uitleg_tekst": "Nuttige neerslag is het water dat overblijft om het grondwater aan te vullen, nadat een deel is verdampt. In warme, droge gebieden is de nuttige neerslag klein. De bodem en vegetatie werken als een spons: ze slaan water op in natte tijden en geven het af in droge tijden. Door ontbossing en verstedelijking kan water steeds minder infiltreren.",
+          "vragen": [
+            {
+              "id": 25,
+              "type": "invullen",
+              "vraag": "Het water dat overblijft om het grondwater aan te vullen nadat een deel is verdampt, noemen we de ... neerslag.",
+              "juiste_antwoord": "nuttige",
+              "uitleg": "Nuttige neerslag is het deel van de neerslag dat daadwerkelijk overblijft om het grondwater aan te vullen. In warme, droge gebieden verdampt er veel water, waardoor de nuttige neerslag klein is."
+            },
+            {
+              "id": 26,
+              "type": "multiple_choice",
+              "vraag": "In Botswana en Zweden valt evenveel neerslag, maar Botswana heeft halfwoestijnen terwijl Zweden dichtbebost is. Hoe komt dat?",
+              "opties": [
+                "Zweden heeft meer rivieren die water aanvoeren vanuit de bergen",
+                "Zweden heeft veel meer rivieren die water aanvoeren vanuit de Scandinavische bergen",
+                "In Botswana verdampt veel meer water, dus de nuttige neerslag is klein",
+                "In Zweden regent het vaker maar in kleinere hoeveelheden"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "In Botswana is het warm, waardoor er veel water verdampt. De nuttige neerslag – het water dat overblijft om de bodem te bevochtigen – is daardoor veel kleiner dan in het koelere Zweden, waar minder verdamping plaatsvindt."
+            },
+            {
+              "id": 27,
+              "type": "choose_all_that_apply",
+              "vraag": "Waardoor kan regenwater steeds minder in de grond zakken (infiltreren)?",
+              "opties": [
+                "Door ontbossing",
+                "Door de aanleg van wegen en huizen (verstedelijking)",
+                "Door de bouw van stuwmeren",
+                "Door snelle afvoer via riolen en sloten"
+              ],
+              "juiste_antwoorden": [
+                0,
+                1,
+                3
+              ],
+              "uitleg": "Door ontbossing, verstedelijking (wegen, huizen, bedrijven) en snelle afvoer via riolen en sloten krijgt water minder de kans om in de grond te zakken. Stuwmeren zijn juist bedoeld om water vast te houden."
+            },
+            {
+              "id": 28,
+              "type": "multiple_choice",
+              "vraag": "Waarom profiteert Nederland van zijn ligging aan de rand van het Europese continent?",
+              "opties": [
+                "Omdat er veel neerslag valt aan de Nederlandse kust",
+                "Omdat rivieren en grondwater water aanvoeren uit hoger gelegen Europa",
+                "Omdat het Noordzeewater langs de kust relatief makkelijk te ontzilten is",
+                "Omdat Nederland veel stuwmeren heeft in het binnenland"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Nederland profiteert van zijn lage ligging. Uit hogere delen van Europa wordt zowel bovengronds (via rivieren zoals de Rijn en Maas) als ondergronds (via grondwater) veel water aangevoerd."
+            },
+            {
+              "id": 29,
+              "type": "multiple_choice",
+              "vraag": "Waarom heeft Egypte toch voldoende water ondanks weinig neerslag?",
+              "opties": [
+                "Door grote aquifers onder de Egyptische woestijn",
+                "Door grootschalige ontzilting van Middellandse Zeewater",
+                "Door de aanvoer van water via de rivier de Nijl",
+                "Door import van virtueel water uit buurlanden"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "In Egypte valt weinig regen, maar de Nijl brengt elk jaar een enorme hoeveelheid water naar dit droge land. Egypte is vrijwel volledig afhankelijk van de Nijl voor zijn watervoorziening."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "2.3",
+          "subdoel_titel": "Duurzaam waterbeheer",
+          "uitleg_tekst": "Bij vernieuwbaar water wordt de watervoorraad aangevuld in hetzelfde tempo als je het onttrekt. Bij niet-vernieuwbaar water (zoals fossiel water) raakt de voorraad op. Watergebruik is het inzetten van vernieuwbaar water; waterverbruik is het inzetten van niet-vernieuwbaar water. Duurzaam waterbeheer betekent alleen vernieuwbaar water gebruiken.",
+          "vragen": [
+            {
+              "id": 30,
+              "type": "multiple_choice",
+              "vraag": "Wat is het verschil tussen watergebruik en waterverbruik?",
+              "opties": [
+                "Bij watergebruik wordt het aangevuld, bij waterverbruik raakt het op",
+                "Watergebruik is voor landbouw, waterverbruik is voor huishoudens",
+                "Bij watergebruik raakt het water volledig op, bij waterverbruik juist niet",
+                "Bij watergebruik raakt het water op, bij waterverbruik niet"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Bij watergebruik zet je vernieuwbaar water in: de natuur vult het in hetzelfde tempo aan als je het onttrekt. Bij waterverbruik gebruik je niet-vernieuwbaar water (zoals fossiel water) dat sneller opraakt dan het wordt aangevuld."
+            },
+            {
+              "id": 31,
+              "type": "invullen",
+              "vraag": "Waterbeheer waarbij je alleen de voorraad vernieuwbaar water gebruikt, noemen we ... waterbeheer.",
+              "juiste_antwoord": "duurzaam",
+              "uitleg": "Bij duurzaam waterbeheer gebruik je alleen vernieuwbaar water: water dat in hetzelfde tempo wordt aangevuld als je het onttrekt. Zo raakt de watervoorraad niet op."
+            },
+            {
+              "id": 32,
+              "type": "choose_all_that_apply",
+              "vraag": "Welke uitspraken over duurzaam waterbeheer zijn juist?",
+              "opties": [
+                "Nederland gebruikt minder dan 10% van zijn vernieuwbare watervoorraad",
+                "Egypte zit dicht tegen de 100% van zijn vernieuwbare watervoorraad",
+                "Het oppompen van fossiel water in de woestijn is duurzaam waterbeheer",
+                "Bij duurzaam waterbeheer raakt de watervoorraad niet op"
+              ],
+              "juiste_antwoorden": [
+                0,
+                1,
+                3
+              ],
+              "uitleg": "Nederland gebruikt inderdaad minder dan 10% en Egypte bijna 100% van hun vernieuwbare water. Fossiel water oppompen in de woestijn is juist niet duurzaam, want het wordt sneller verbruikt dan aangevuld. Bij duurzaam waterbeheer raakt de voorraad per definitie niet op."
+            },
+            {
+              "id": 33,
+              "type": "multiple_choice",
+              "vraag": "Waarom is het oppompen van fossiel water onder de Libische woestijn een voorbeeld van niet-duurzaam waterbeheer?",
+              "opties": [
+                "Omdat het water sneller opraakt dan de natuur het aanvult",
+                "Omdat het fossiele water veel te zout is geworden om als drinkwater te gebruiken",
+                "Omdat het water te zout is om als drinkwater te gebruiken",
+                "Omdat het water vervuild is door mineralen in de grond"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "In een woestijnklimaat valt nauwelijks neerslag, waardoor de aquifer niet of nauwelijks wordt aangevuld. Het fossiele water wordt dus sneller verbruikt dan het wordt aangevuld: dat is waterverbruik, geen duurzaam waterbeheer.",
+              "afbeelding": "images/bron12_aquifer.png"
+            },
+            {
+              "id": 34,
+              "type": "invullen",
+              "vraag": "Water dat in hetzelfde tempo wordt aangevuld als waarin het wordt verbruikt, noemen we ... water.",
+              "juiste_antwoord": "vernieuwbaar",
+              "uitleg": "Vernieuwbaar water wordt steeds aangevuld in het tempo waarop je het onttrekt. Rivierwater is een goed voorbeeld: nieuwe neerslag zorgt steeds voor nieuw rivierwater."
+            },
+            {
+              "id": 35,
+              "type": "multiple_choice",
+              "vraag": "Welke sector is wereldwijd de grootste watergebruiker?",
+              "opties": [
+                "Landbouw met ongeveer 70 procent",
+                "Huishoudens met ongeveer 40 procent",
+                "Industrie met ongeveer 50 procent",
+                "Energieopwekking met ongeveer 60 procent"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "De landbouw is met 70% wereldwijd veruit de grootste gebruiker van water. Irrigatie van gewassen vergt enorme hoeveelheden water."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paragraaf": "3.3",
+      "uitleg_tekst": "Niet elk gebied loopt evenveel risico op overstromingen. Er zijn zeven typen risicogebieden, waaronder rivier- en kustvlaktes, gebieden aan de voet van gebergten, en gebieden met bodemdaling. Door klimaatverandering neemt het aantal overstromingen toe: warmere oceanen produceren meer waterdamp en zwaardere stormen. Maatregelen variëren van dijken bouwen (korte termijn) tot ruimte voor de rivier en het broeikaseffect verminderen (lange termijn).",
+      "subdoelen": [
+        {
+          "subdoel_id": "3.1",
+          "subdoel_titel": "Risicogebieden voor overstromingen",
+          "uitleg_tekst": "Zeven typen risicogebieden: 1) rivier- en kustvlaktes/delta's, 2) gebieden aan de voet van gebergten met rotsige ondergrond, 3) gebieden waar sneeuwsmelt samenvalt met regenval, 4) gebieden op de route van tropische orkanen, 5) gebieden met ontbossing stroomopwaarts, 6) gebieden die 'verstenen' door verstedelijking, 7) gebieden met bodemdaling door oppompen van grondwater.",
+          "vragen": [
+            {
+              "id": 36,
+              "type": "multiple_choice",
+              "vraag": "Waarom lopen rivier- en kustvlaktes (delta's) een groot overstromingsrisico?",
+              "opties": [
+                "Ze zijn laaggelegen en bedreigd door zowel rivieren als de zee",
+                "Er wonen weinig mensen dus de schade valt altijd mee",
+                "Er zijn veel bossen aanwezig die het regenwater vasthouden als een spons",
+                "De bodem is er heel poreus waardoor water snel wegzakt"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Delta's en kustvlaktes zijn laaggelegen gebieden waar de dreiging van overstromingen zowel vanuit de rivier als vanuit de zee komt. Toch woont 70% van de wereldbevolking langs rivieren of dicht bij de kust."
+            },
+            {
+              "id": 37,
+              "type": "invullen",
+              "vraag": "Een verhoogde afvoer van de rivier waarbij de bedding het water niet meer kan verwerken, noemen we een ...",
+              "juiste_antwoord": "piekafvoer",
+              "uitleg": "Een piekafvoer ontstaat wanneer er heel veel water tegelijk in de rivier terechtkomt, bijvoorbeeld door hevige regenval. De bedding van de rivier is dan te klein om al het water te verwerken."
+            },
+            {
+              "id": 38,
+              "type": "choose_all_that_apply",
+              "vraag": "Bij welke risicogebieden speelt de mens een belangrijke rol bij het vergroten van de overstromingskans?",
+              "opties": [
+                "Gebieden met ontbossing stroomopwaarts",
+                "Gebieden op de route van tropische orkanen",
+                "Gebieden met bodemdaling door het oppompen van grondwater",
+                "Gebieden die 'verstenen' door verstedelijking"
+              ],
+              "juiste_antwoorden": [
+                0,
+                2,
+                3
+              ],
+              "uitleg": "Ontbossing, bodemdaling door grondwateronttrekking en verstedelijking (verstening) zijn allemaal door de mens veroorzaakt. Tropische orkanen zijn een natuurlijk fenomeen."
+            },
+            {
+              "id": 39,
+              "type": "multiple_choice",
+              "vraag": "Waarom vergroot ontbossing stroomopwaarts de kans op overstromingen stroomafwaarts?",
+              "opties": [
+                "Bomen langs de rivier gebruiken te veel water waardoor de bedding droogvalt",
+                "Ontbossing veroorzaakt meer verdamping boven het bos",
+                "Zonder bos wordt het water niet vastgehouden en stroomt alles direct af",
+                "De wortels van bomen verstoppen de rivier stroomafwaarts"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Bossen werken als een spons: ze houden regenwater vast en geven het langzaam af. Zonder bos stroomt al het regenwater meteen af naar de rivier, waardoor er stroomafwaarts een piekafvoer ontstaat."
+            },
+            {
+              "id": 40,
+              "type": "invullen",
+              "vraag": "Daling van het grondoppervlak, bijvoorbeeld door het oppompen van grondwater, noemen we ...",
+              "juiste_antwoord": "bodemdaling",
+              "uitleg": "Bodemdaling is de daling van het grondoppervlak. In veel kuststreken is bodemdaling door het oppompen van grondwater een nog groter probleem dan zeespiegelstijging. Jakarta wordt waarschijnlijk de eerste metropool die hierdoor ontruimd moet worden."
+            },
+            {
+              "id": 41,
+              "type": "multiple_choice",
+              "vraag": "Waarom lopen gebieden aan de voet van een gebergte met een rotsige ondergrond extra risico op overstromingen?",
+              "opties": [
+                "Omdat er in de zomer heel veel sneeuw smelt in de bergen boven het dal",
+                "Omdat er veel stuwmeren liggen die kunnen doorbreken",
+                "Omdat water niet in de rots trekt en alles tegelijk in de rivier komt",
+                "Omdat er veel tropische orkanen voorkomen in berggebieden"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Bij een rotsige ondergrond kan het regenwater nauwelijks infiltreren. Bij hevige regenval komt daardoor al het water tegelijk in de rivier, waardoor een piekafvoer ontstaat die de bedding niet kan verwerken."
+            },
+            {
+              "id": 42,
+              "type": "invullen",
+              "vraag": "Een enorme storm met een windsnelheid van meer dan 200 km/u die voor hevige regenval zorgt en water tegen de kust opblaast, is een ...",
+              "juiste_antwoord": "tropische orkaan",
+              "uitleg": "Een tropische orkaan is een enorme storm met windsnelheden boven 200 km/u. De orkaan zorgt voor hevige regenval en blaast het water tegen de kust op, waardoor het veel hoger komt te staan."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "3.2",
+          "subdoel_titel": "Toename van overstromingen",
+          "uitleg_tekst": "Het aantal overstromingen neemt toe door klimaatverandering. Warmere oceanen produceren meer waterdamp, warmere lucht neemt meer vocht op, en dat leidt tot zwaardere stormen met meer neerslag. In delta's komen alle effecten samen: extreme neerslag, zeespiegelstijging, smeltende ijskappen en bodemdaling.",
+          "vragen": [
+            {
+              "id": 43,
+              "type": "multiple_choice",
+              "vraag": "Waarom leidt opwarming van de aarde tot meer overstromingen?",
+              "opties": [
+                "Omdat warmere oceanen meer waterdamp en zwaardere stormen veroorzaken",
+                "Omdat warmere lucht juist minder water kan vasthouden",
+                "Omdat er veel minder wolken gevormd worden bij hogere mondiale temperaturen",
+                "Omdat de wind minder hard waait bij een warmer klimaat"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Opwarming van de atmosfeer leidt tot opwarming van de oceanen. Warmer zeewater produceert meer waterdamp en warmere lucht neemt meer vocht op. Hierdoor zit er meer energie in de waterkringloop, wat leidt tot zwaardere stormen met meer neerslag.",
+              "afbeelding": "images/bron18_overstromingskans.png"
+            },
+            {
+              "id": 44,
+              "type": "choose_all_that_apply",
+              "vraag": "Welke effecten van klimaatopwarming komen samen in riverdelta's?",
+              "opties": [
+                "Extreme stormen met hevige neerslag",
+                "Zeespiegelstijging",
+                "Smeltende poolkappen en gletsjers",
+                "Meer zonneschijn"
+              ],
+              "juiste_antwoorden": [
+                0,
+                1,
+                2
+              ],
+              "uitleg": "In riverdelta's komen alle effecten van opwarming samen: extreme stormen met hevige neerslag, zeespiegelstijging door uitzettend zeewater, en smeltende poolkappen en gletsjers. Daarnaast speelt bodemdaling door drinkwaterwinning ook een rol.",
+              "afbeelding": "images/bron18_overstromingskans.png"
+            },
+            {
+              "id": 45,
+              "type": "multiple_choice",
+              "vraag": "Hoeveel watersnoodrampen per jaar zijn er nu, vergeleken met rond 1970?",
+              "opties": [
+                "Het is gelijk gebleven: rond de twintig per jaar",
+                "Het is verdubbeld: van twintig naar ongeveer veertig per jaar",
+                "Het is afgenomen door betere dijken en dammen",
+                "Het is vertienvoudigd: van twintig naar tweehonderd per jaar"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Het aantal watersnoodrampen steeg van rond de twintig in 1970 naar tweehonderd per jaar nu. Dat is een vertienvoudiging, vooral veroorzaakt door klimaatverandering.",
+              "afbeelding": "images/bron18_overstromingskans.png"
+            }
+          ]
+        },
+        {
+          "subdoel_id": "3.3",
+          "subdoel_titel": "Gevolgen en maatregelen",
+          "uitleg_tekst": "De indirecte gevolgen van overstromingen (honger, besmettelijke ziekten) zijn vaak erger dan de directe gevolgen (verdrinking). Kortetermijnmaatregelen zijn o.a. dijken bouwen, het weer volgen, burgers trainen. Langetermijnmaatregelen zijn o.a. ruimte voor de rivier, het broeikaseffect verminderen, en vestigingsbeleid.",
+          "vragen": [
+            {
+              "id": 46,
+              "type": "multiple_choice",
+              "vraag": "Waaraan overlijden vaak de meeste slachtoffers na een overstroming?",
+              "opties": [
+                "Direct door verdrinking in het overstromingswater",
+                "Door onderkoeling als gevolg van het koude water",
+                "Door langdurige onderkoeling als gevolg van het ijskoude overstromingswater",
+                "Door indirecte gevolgen zoals honger en besmettelijke ziekten"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Vaak overlijden er meer mensen aan de indirecte gevolgen van overstromingen, zoals honger of besmettelijke ziekten. Oogsten zijn vernield, bruggen en wegen kapot, en door gebrek aan veilig drinkwater breken ziekten uit."
+            },
+            {
+              "id": 47,
+              "type": "choose_all_that_apply",
+              "vraag": "Welke maatregelen tegen overstromingen werken op korte termijn?",
+              "opties": [
+                "Dijken en dammen aanleggen",
+                "Het broeikaseffect verminderen",
+                "Burgers voorlichten en evacuaties oefenen",
+                "Ruimte voor de rivier maken"
+              ],
+              "juiste_antwoorden": [
+                0,
+                2
+              ],
+              "uitleg": "Dijken bouwen en burgers voorlichten/evacuaties oefenen zijn kortetermijnmaatregelen. Het broeikaseffect verminderen en ruimte voor de rivier maken kosten meer tijd en zijn langetermijnmaatregelen."
+            },
+            {
+              "id": 48,
+              "type": "choose_all_that_apply",
+              "vraag": "Welke maatregelen tegen overstromingen werken op lange termijn?",
+              "opties": [
+                "Het versterkte broeikaseffect verminderen",
+                "Afvalstoffen veiligstellen na een overstroming",
+                "Ruimte voor de rivier maken",
+                "Een vestigingsbeleid creëren om mensen uit risicogebieden te weren"
+              ],
+              "juiste_antwoorden": [
+                0,
+                2,
+                3
+              ],
+              "uitleg": "Het broeikaseffect verminderen, ruimte voor de rivier maken en een vestigingsbeleid zijn langetermijnmaatregelen. Afvalstoffen veiligstellen is een kortetermijnmaatregel die je direct na een ramp toepast."
+            },
+            {
+              "id": 49,
+              "type": "multiple_choice",
+              "vraag": "Wat wordt bedoeld met 'ruimte voor de rivier' als maatregel tegen overstromingen?",
+              "opties": [
+                "Hogere en sterkere dijken bouwen langs de hele rivier",
+                "Meer water oppompen zodat de rivier minder vol raakt",
+                "De rivier de overstromingsvlaktes teruggeven in plaats van indijken",
+                "De rivier rechttrekken en verdiepen zodat het water sneller naar zee kan stromen"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Bij 'ruimte voor de rivier' geef je de rivier de overstromingsvlaktes terug, ook stroomopwaarts. In plaats van het water steeds tussen hogere dijken te persen, mag de rivier bij hoog water uitstromen over een groter gebied."
+            },
+            {
+              "id": 50,
+              "type": "volgorde",
+              "vraag": "Zet de indirecte gevolgen van een overstroming in een logische volgorde van oorzaak naar gevolg.",
+              "opties": {
+                "A": "Oogsten worden vernield en bruggen/wegen zijn kapot",
+                "B": "Mensen kunnen niet aan voedsel of medicijnen komen",
+                "C": "Er breken besmettelijke ziekten uit door gebrek aan veilig drinkwater",
+                "D": "Er vallen meer slachtoffers door honger en ziekte dan door de overstroming zelf"
+              },
+              "juiste_antwoord": "1:A, 2:B, 3:C, 4:D",
+              "uitleg": "Eerst worden oogsten en infrastructuur vernield, waardoor mensen niet aan voedsel/medicijnen kunnen komen. Door gebrek aan veilig drinkwater breken ziekten uit, en uiteindelijk vallen er meer slachtoffers door deze indirecte gevolgen dan door de overstroming zelf."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paragraaf": "3.4",
+      "uitleg_tekst": "Waterschaarste kan ontstaan door een fysiek watertekort (er is gewoon te weinig water) of een economisch watertekort (er is te weinig geïnvesteerd om het water bij de mensen te brengen). Toenemende schaarste kan leiden tot conflicten (wateroorlog). Bij territoriale integriteit mag geen enkel land zonder toestemming ingrijpen in grensoverschrijdende waterlopen. Water besparen kan door het vasthouden (stuwdammen, kleinschalige projecten) en door minder te gebruiken (druppelirrigatie, hergebruik, minder vervuiling).",
+      "subdoelen": [
+        {
+          "subdoel_id": "4.1",
+          "subdoel_titel": "Waterschaarste: fysiek en economisch",
+          "uitleg_tekst": "Bij een fysiek watertekort is er gewoon te weinig water in een gebied. Bij een economisch watertekort is er wel water, maar ontbreken de investeringen (waterleidingen, pompen) om het bij de mensen te brengen. Waterschaarste neemt toe door klimaatopwarming, bevolkingsgroei en meer waterverbruik per persoon.",
+          "vragen": [
+            {
+              "id": 51,
+              "type": "multiple_choice",
+              "vraag": "Wat is het verschil tussen een fysiek watertekort en een economisch watertekort?",
+              "opties": [
+                "Een fysiek tekort komt uitsluitend in woestijnen voor, economisch tekort alleen in steden",
+                "Bij een fysiek tekort is er te weinig water, bij een economisch tekort ontbreekt infrastructuur",
+                "Bij een fysiek tekort is het water te duur, bij een economisch tekort te vervuild",
+                "Er is geen verschil, beide betekenen dat er te weinig regen valt"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Bij een fysiek watertekort is er gewoon te weinig water om aan de behoefte te voldoen. Bij een economisch watertekort is het water er wel, maar ontbreken de investeringen (waterleidingen, pompen) om het bij de mensen te brengen.",
+              "afbeelding": "images/bron22_watertekort.png"
+            },
+            {
+              "id": 52,
+              "type": "invullen",
+              "vraag": "Alle problemen die zich voordoen als gevolg van een tekort aan schoon water noemen we ...",
+              "juiste_antwoord": "waterschaarste",
+              "uitleg": "Waterschaarste omvat alle problemen die ontstaan door een tekort aan schoon water. Dit kan komen door een fysiek tekort (te weinig water) of een economisch tekort (te weinig investeringen)."
+            },
+            {
+              "id": 53,
+              "type": "choose_all_that_apply",
+              "vraag": "Waardoor neemt de waterschaarste op aarde toe?",
+              "opties": [
+                "Door klimaatopwarming met meer droogte",
+                "Door bevolkingsgroei",
+                "Door meer waterverbruik per persoon",
+                "Door de aanleg van stuwmeren"
+              ],
+              "juiste_antwoorden": [
+                0,
+                1,
+                2
+              ],
+              "uitleg": "De waterschaarste neemt toe door klimaatopwarming (meer droogte), bevolkingsgroei en meer waterverbruik per persoon. Stuwmeren zijn juist een maatregel om water vast te houden en tekorten te bestrijden.",
+              "afbeelding": "images/bron22_watertekort.png"
+            },
+            {
+              "id": 54,
+              "type": "multiple_choice",
+              "vraag": "In veel landen ten zuiden van de Sahara woont 40% van de huishoudens op meer dan een half uur lopen van het dichtstbijzijnde water. Welk type watertekort is dit?",
+              "opties": [
+                "Een fysiek watertekort door te weinig jaarlijkse neerslag in het gebied",
+                "Een virtueel watertekort door te weinig import",
+                "Een economisch watertekort door gebrek aan infrastructuur",
+                "Een seizoensgebonden tekort door droge zomers"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Als het water er wel is maar mensen er niet bij kunnen komen door gebrek aan waterleidingen of pompen, is er sprake van een economisch watertekort. Er is te weinig geïnvesteerd in infrastructuur om het water bij de mensen te brengen.",
+              "afbeelding": "images/bron22_watertekort.png"
+            },
+            {
+              "id": 55,
+              "type": "invullen",
+              "vraag": "Wanneer in een gebied te weinig is geïnvesteerd om het wel aanwezige water bij de bewoners te brengen, spreken we van een ... watertekort.",
+              "juiste_antwoord": "economisch",
+              "uitleg": "Bij een economisch watertekort is er wel water aanwezig, maar zijn er niet genoeg waterleidingen, pompen of andere infrastructuur om het water bij de bewoners te krijgen."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "4.2",
+          "subdoel_titel": "Wateroorlog en territoriale integriteit",
+          "uitleg_tekst": "Toenemende waterschaarste kan leiden tot conflicten tussen landen die dezelfde rivier delen. Turkije twist met Syrië en Irak over de Eufraat en Tigris. Bij territoriale integriteit vindt men dat geen enkel land zonder toestemming van anderen mag ingrijpen in grensoverschrijdende natuurlijke systemen zoals rivieren.",
+          "vragen": [
+            {
+              "id": 56,
+              "type": "multiple_choice",
+              "vraag": "Waarom kan toenemende waterschaarste leiden tot een wateroorlog?",
+              "opties": [
+                "Omdat landen met veel wateroverschot andere droge landen willen gaan veroveren",
+                "Omdat droge landen stiekem water stelen van buurlanden",
+                "Omdat de zeespiegel stijgt en kustlanden bedreigt",
+                "Omdat landen die dezelfde rivier delen ruzie krijgen over het water"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Landen die dezelfde rivier delen, kunnen ruzie krijgen als het water schaars wordt. Bijvoorbeeld: Turkije bouwt stuwmeren in de Eufraat en Tigris, waardoor er minder water overblijft voor Syrië en Irak stroomafwaarts."
+            },
+            {
+              "id": 57,
+              "type": "invullen",
+              "vraag": "De opvatting dat niemand zonder toestemming van anderen mag ingrijpen in grensoverschrijdende natuurlijke systemen zoals rivieren, noemen we ...",
+              "juiste_antwoord": "territoriale integriteit",
+              "uitleg": "Territoriale integriteit betekent dat geen enkel land het recht heeft om zonder toestemming in te grijpen in natuurlijke systemen (zoals rivieren) die ook andere landen raken. Syrië en Irak beroepen zich hierop tegenover Turkije."
+            },
+            {
+              "id": 58,
+              "type": "multiple_choice",
+              "vraag": "Turkije bouwt stuwmeren in de Eufraat en de Tigris. Wat is het standpunt van Turkije?",
+              "opties": [
+                "Dat Syrië en Irak het water helemaal niet nodig hebben",
+                "Dat Turkije vrij mag beschikken over neerslag op eigen grondgebied",
+                "Dat het water eerlijk moet worden verdeeld door een onafhankelijke VN-commissie",
+                "Dat alle landen samen moeten betalen voor het waterbeheer"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "Turkije vindt dat het vrij mag beschikken over al het water dat als neerslag in Turkije valt. Door stuwmeren te bouwen houdt Turkije het water vast en heeft het 'kranen' om het water in de rivieren te reguleren. Syrië en Irak zijn het hier niet mee eens."
+            },
+            {
+              "id": 59,
+              "type": "choose_all_that_apply",
+              "vraag": "Wat zijn de twee belangrijkste problemen in landen met waterschaarste?",
+              "opties": [
+                "Een tekort aan schoon drinkwater",
+                "Te veel overstromingen",
+                "Een tekort aan irrigatiewater voor gewassen",
+                "Te hoge temperaturen"
+              ],
+              "juiste_antwoorden": [
+                0,
+                2
+              ],
+              "uitleg": "De twee belangrijkste problemen bij waterschaarste zijn: een tekort aan schoon drinkwater voor de bevolking en een tekort aan irrigatiewater voor de landbouw. Deze twee tekorten bedreigen zowel de gezondheid als de voedselvoorziening."
+            },
+            {
+              "id": 60,
+              "type": "multiple_choice",
+              "vraag": "Welke rivier is de bron van conflict tussen Ethiopië, Egypte en Soedan?",
+              "opties": [
+                "De Nijl (Blauwe Nijl)",
+                "De Eufraat in Turkije",
+                "De Tigris in Irak",
+                "De Congo in Centraal-Afrika"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Het water uit de Blauwe Nijl is voor Ethiopiërs, Egyptenaren en Soedanezen van levensbelang. De bouw van de grootste waterkrachtcentrale ter wereld in Ethiopië (de Grote Renaissancedam) zorgt voor spanning, omdat Egypte vreest minder water te krijgen."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "4.3",
+          "subdoel_titel": "Water sparen",
+          "uitleg_tekst": "Water besparen kan door het vast te houden (stuwdammen, kleinschalige projecten) en door minder te gebruiken (druppelirrigatie, droogtebestendige gewassen, hergebruik afvalwater, minder vervuiling). Stuwdammen hebben ook nadelen: gedwongen verhuizing, dichtslibben, doorbraakrisico en verdamping. Verzilting ontstaat als irrigatiewater verdampt en het zout achterblijft in de bodem.",
+          "vragen": [
+            {
+              "id": 61,
+              "type": "choose_all_that_apply",
+              "vraag": "Welke nadelen heeft de aanleg van een stuwdam?",
+              "opties": [
+                "Bewoners moeten gedwongen verhuizen",
+                "Het stuwmeer kan dichtslibben",
+                "Bij een doorbraak kan een watermuur stroomafwaarts enorme schade aanrichten",
+                "Een stuwdam levert geen elektriciteit op"
+              ],
+              "juiste_antwoorden": [
+                0,
+                1,
+                2
+              ],
+              "uitleg": "Nadelen van stuwdammen zijn: gedwongen verhuizing (bij de Drieklovendam 1,4 miljoen boeren), dichtslibben (ondiepe stuwmeren kunnen in 25 jaar vol zijn), doorbraakrisico, en 12% waterverlies door verdamping. Een stuwdam levert juist wél elektriciteit op."
+            },
+            {
+              "id": 62,
+              "type": "invullen",
+              "vraag": "Toename van het zoutgehalte in de bodem doordat irrigatiewater verdampt en het zout achterblijft, noemen we ...",
+              "juiste_antwoord": "verzilting",
+              "uitleg": "Verzilting ontstaat wanneer irrigatiewater verdampt en het zout achterblijft in de bodem. Planten groeien niet op verzilte bodem, waardoor landbouwgrond onbruikbaar wordt."
+            },
+            {
+              "id": 63,
+              "type": "multiple_choice",
+              "vraag": "Waarom is druppelirrigatie beter dan traditionele irrigatie?",
+              "opties": [
+                "Omdat het veel meer water per hectare aan de gewassen kan leveren",
+                "Omdat het goedkoper is om aan te leggen dan kanalen",
+                "Omdat het alleen 's nachts werkt wanneer het koel is",
+                "Omdat er minder water verdampt en minder verzilting optreedt"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Bij druppelirrigatie komt het water direct bij de wortels van de plant, waardoor er veel minder verdampt. Hierdoor is er minder waterverlies en minder verzilting van de bodem.",
+              "afbeelding": "images/bron23_irrigatie.png"
+            },
+            {
+              "id": 64,
+              "type": "choose_all_that_apply",
+              "vraag": "Op welke manieren kun je zuiniger met water omgaan?",
+              "opties": [
+                "Druppelirrigatie toepassen",
+                "Droogtebestendige gewassen telen",
+                "Afvalwater hergebruiken",
+                "Meer grondwater oppompen"
+              ],
+              "juiste_antwoorden": [
+                0,
+                1,
+                2
+              ],
+              "uitleg": "Druppelirrigatie, droogtebestendige gewassen en hergebruik van afvalwater zijn allemaal manieren om zuiniger met water om te gaan. Meer grondwater oppompen is juist het tegenovergestelde: dat vergroot het waterverbruik."
+            },
+            {
+              "id": 65,
+              "type": "multiple_choice",
+              "vraag": "Waarom zijn kleinschalige projecten om water vast te houden soms beter dan een grote stuwdam?",
+              "opties": [
+                "Omdat ze uiteindelijk meer water kunnen vasthouden dan één grote stuwdam",
+                "Omdat ze meer elektriciteit opwekken dan grote dammen",
+                "Omdat ze sneller gebouwd worden dan stuwdammen",
+                "Omdat ze goedkoper zijn, de natuur minder aantasten en minder risico's geven"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Kleinschalige projecten om water in de eigen omgeving vast te houden zijn goedkoper, tasten de natuur minder aan en brengen minder risico's met zich mee dan een grote stuwdam."
+            },
+            {
+              "id": 66,
+              "type": "multiple_choice",
+              "vraag": "Hoeveel procent van het water in stuwmeren gaat wereldwijd verloren door verdamping?",
+              "opties": [
+                "Ongeveer 2 procent",
+                "Ongeveer 5 procent",
+                "Ongeveer 5 procent van het totaal",
+                "Ongeveer 12 procent"
+              ],
+              "juiste_antwoord": 3,
+              "uitleg": "Van al het water in stuwmeren gaat wereldwijd 12% verloren door verdamping. Dit is een van de nadelen van grote stuwmeren, vooral in warme gebieden."
+            },
+            {
+              "id": 67,
+              "type": "volgorde",
+              "vraag": "Zet de stappen van het verziltingsproces bij irrigatie in de juiste volgorde.",
+              "opties": {
+                "A": "Gewassen worden geïrrigeerd met water dat zouten bevat",
+                "B": "Het irrigatiewater verdampt door de hoge temperaturen",
+                "C": "Het zout blijft achter in de bodem",
+                "D": "De bodem wordt te zout voor plantengroei"
+              },
+              "juiste_antwoord": "1:A, 2:B, 3:C, 4:D",
+              "uitleg": "Eerst worden gewassen geïrrigeerd met water dat zouten bevat. Door de hoge temperaturen verdampt het water, maar het zout blijft achter in de bodem. Na verloop van tijd wordt de bodem te zout voor plantengroei."
+            }
+          ]
+        },
+        {
+          "subdoel_id": "4.4",
+          "subdoel_titel": "Begrippen H3.1-H3.4",
+          "uitleg_tekst": "Alle belangrijke begrippen uit paragraaf 3.1 tot en met 3.4 samengebracht.",
+          "vragen": [
+            {
+              "id": 68,
+              "type": "multiple_choice",
+              "vraag": "Wat is een aquifer?",
+              "opties": [
+                "Een waterhoudende laag in de ondergrond",
+                "Een ondergrondse rivier die naar zee stroomt",
+                "Een type stuwdam om water vast te houden",
+                "Een drinkwaterzuiveringsinstallatie voor steden"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Een aquifer is een waterhoudende laag in de ondergrond die als een 'waterspaarpot' werkt. In droge gebieden kan fossiel water uit aquifers worden opgepompt.",
+              "afbeelding": "images/bron12_aquifer.png"
+            },
+            {
+              "id": 69,
+              "type": "invullen",
+              "vraag": "Waterbeheer waarbij alleen de voorraad vernieuwbaar water wordt gebruikt, heet ...",
+              "juiste_antwoord": "duurzaam waterbeheer",
+              "uitleg": "Bij duurzaam waterbeheer gebruik je alleen vernieuwbaar water, zodat de watervoorraad niet opraakt. Het water wordt in hetzelfde tempo aangevuld als het wordt onttrokken."
+            },
+            {
+              "id": 70,
+              "type": "multiple_choice",
+              "vraag": "Wat is het verschil tussen oppervlaktewater en grondwater?",
+              "opties": [
+                "Oppervlaktewater is altijd zoet water en grondwater is altijd zout water",
+                "Grondwater stroomt sneller dan water in rivieren",
+                "Oppervlaktewater is zichtbaar, grondwater zit onzichtbaar in de bodem",
+                "Er is geen verschil, het zijn twee namen voor hetzelfde"
+              ],
+              "juiste_antwoord": 2,
+              "uitleg": "Oppervlaktewater is water dat je kunt zien: oceanen, rivieren, meren. Grondwater is water dat onzichtbaar in de bodem en in gesteenten zit. Beide kunnen zoet of zout zijn."
+            },
+            {
+              "id": 71,
+              "type": "invullen",
+              "vraag": "Water dat verborgen zit in producten die je importeert, noemen we ... water.",
+              "juiste_antwoord": "virtueel",
+              "uitleg": "Virtueel water is de hoeveelheid water die nodig is geweest om een product te maken. Door producten te importeren, importeer je dus ook 'verborgen' water."
+            },
+            {
+              "id": 72,
+              "type": "choose_all_that_apply",
+              "vraag": "Welke begrippen horen bij paragraaf 3.1 (Water in beweging)?",
+              "opties": [
+                "Diepwaterpomp",
+                "Aquifer",
+                "Zeestroom",
+                "Piekafvoer"
+              ],
+              "juiste_antwoorden": [
+                0,
+                2
+              ],
+              "uitleg": "Diepwaterpomp en zeestroom horen bij 3.1 (Water in beweging). Aquifer hoort bij 3.2 (Water in balans) en piekafvoer bij 3.3 (Soms te veel)."
+            },
+            {
+              "id": 73,
+              "type": "invullen",
+              "vraag": "Wanneer er in een gebied gewoon te weinig water is om aan de behoefte van de mensen te voldoen, spreken we van een ... watertekort.",
+              "juiste_antwoord": "fysiek",
+              "uitleg": "Bij een fysiek watertekort is er simpelweg te weinig water in het gebied om aan de waterbehoefte te voldoen. Dit in tegenstelling tot een economisch watertekort, waarbij het water er wel is maar niet bij de mensen gebracht kan worden."
+            },
+            {
+              "id": 74,
+              "type": "volgorde",
+              "vraag": "Zet de paragrafen van H3 in de juiste volgorde van hun onderwerp.",
+              "opties": {
+                "A": "Waterschaarste en wateroorlog",
+                "B": "Waterkringloop en zeestromen",
+                "C": "Overstromingsrisico's",
+                "D": "Waterbalans en duurzaam waterbeheer"
+              },
+              "juiste_antwoord": "1:B, 2:D, 3:C, 4:A",
+              "uitleg": "De volgorde is: 3.1 Water in beweging (waterkringloop, zeestromen), 3.2 Water in balans (waterbalans, duurzaam waterbeheer), 3.3 Soms te veel (overstromingen), 3.4 Vaak te weinig (waterschaarste, wateroorlog)."
+            },
+            {
+              "id": 75,
+              "type": "multiple_choice",
+              "vraag": "Hoeveel liter water kost de productie van 1 kilo graan gemiddeld?",
+              "opties": [
+                "Ongeveer 2000 liter",
+                "Ongeveer 200 liter",
+                "Ongeveer 500 liter",
+                "Ongeveer 5000 liter"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "De productie van 1 kilo graan kost gemiddeld bijna 2000 liter water. Door graan te importeren voer je dus eigenlijk verborgen (virtueel) water in."
+            },
+            {
+              "id": 76,
+              "type": "invullen",
+              "vraag": "Water dat niet of heel langzaam wordt aangevuld waardoor het opraakt, noemen we ... water.",
+              "juiste_antwoord": "niet-vernieuwbaar",
+              "uitleg": "Niet-vernieuwbaar water wordt niet of heel langzaam aangevuld, waardoor het opraakt als je het gebruikt. Fossiel water in woestijngebieden is hier een voorbeeld van."
+            },
+            {
+              "id": 77,
+              "type": "multiple_choice",
+              "vraag": "Waarom wordt Jakarta waarschijnlijk de eerste metropool die ontruimd moet worden?",
+              "opties": [
+                "Door toenemende tropische orkanen in de regio",
+                "Door extreme bodemdaling door het oppompen van grondwater",
+                "Door een ernstig en groeiend tekort aan schoon drinkwater voor alle inwoners",
+                "Door het risico op een vulkaanuitbarsting in de buurt"
+              ],
+              "juiste_antwoord": 1,
+              "uitleg": "In Jakarta is de bodemdaling door het oppompen van grondwater een enorm probleem. De stad zakt steeds verder weg, waardoor het overstromingsrisico toeneemt. Indonesia bouwt al aan een nieuwe hoofdstad."
+            },
+            {
+              "id": 78,
+              "type": "choose_all_that_apply",
+              "vraag": "Welke gevolgen heeft klimaatopwarming voor water op aarde?",
+              "opties": [
+                "Meer verdamping en zwaardere stormen",
+                "Zeespiegelstijging",
+                "Smeltende gletsjers en poolkappen",
+                "Minder neerslag overal ter wereld"
+              ],
+              "juiste_antwoorden": [
+                0,
+                1,
+                2
+              ],
+              "uitleg": "Klimaatopwarming leidt tot meer verdamping en zwaardere stormen, zeespiegelstijging en smeltende gletsjers/poolkappen. De neerslag neemt niet overal af; op sommige plekken valt juist meer neerslag, maar op andere plekken minder."
+            },
+            {
+              "id": 79,
+              "type": "invullen",
+              "vraag": "Het deel van de neerslag dat overblijft om het grondwater aan te vullen (na verdamping) heet de ... neerslag.",
+              "juiste_antwoord": "nuttige",
+              "uitleg": "Nuttige neerslag is het deel van de neerslag dat daadwerkelijk overblijft om het grondwater aan te vullen. In warme gebieden is de nuttige neerslag vaak klein door de hoge verdamping."
+            },
+            {
+              "id": 80,
+              "type": "multiple_choice",
+              "vraag": "Hoeveel procent van de wereldbevolking woont langs rivieren of dicht bij de kust?",
+              "opties": [
+                "Ongeveer 70 procent",
+                "Ongeveer 30 procent",
+                "Ongeveer 50 procent",
+                "Ongeveer 90 procent"
+              ],
+              "juiste_antwoord": 0,
+              "uitleg": "Liefst 70% van de wereldbevolking woont langs rivieren of dicht bij de kust. Vooral de uitgestrekte delta's zijn al eeuwenlang een favoriete vestigingsplaats, ondanks het overstromingsrisico."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

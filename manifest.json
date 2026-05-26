@@ -1,0 +1,24 @@
+{
+  "name": "Aardrijkskunde H3 - Quiz",
+  "short_name": "AK H3",
+  "description": "Quiz app voor Aardrijkskunde H3 Water - buiteNLand 2 vwo",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#eff6ff",
+  "theme_color": "#2563eb",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
