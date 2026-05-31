@@ -3,7 +3,7 @@
   "hoofdstuk": "H3 Water",
   "methode": "buiteNLand 2 vwo",
   "scope": "H3 (par 3.1-3.4 + Begrippen)",
-  "totaal_vragen": 80,
+  "totaal_vragen": 78,
   "leerdoelen": [
     {
       "paragraaf": "3.1",
@@ -942,8 +942,8 @@
         },
         {
           "subdoel_id": "4.4",
-          "subdoel_titel": "Begrippen H3.1-H3.4",
-          "uitleg_tekst": "Alle belangrijke begrippen uit paragraaf 3.1 tot en met 3.4 samengebracht.",
+          "subdoel_titel": "Belangrijke waterbegrippen",
+          "uitleg_tekst": "Kernbegrippen over water: aquifer (waterhoudende laag in de ondergrond), fossiel water (oud, niet-vernieuwbaar grondwater), virtueel water (water verborgen in producten), nuttige neerslag (deel dat het grondwater aanvult), verzilting (zoutophoping door verdamping van irrigatiewater), en het verschil tussen watergebruik (vernieuwbaar) en waterverbruik (niet-vernieuwbaar).",
           "vragen": [
             {
               "id": 68,
@@ -987,40 +987,11 @@
               "uitleg": "Virtueel water is de hoeveelheid water die nodig is geweest om een product te maken. Door producten te importeren, importeer je dus ook 'verborgen' water."
             },
             {
-              "id": 72,
-              "type": "choose_all_that_apply",
-              "vraag": "Welke begrippen horen bij paragraaf 3.1 (Water in beweging)?",
-              "opties": [
-                "Diepwaterpomp",
-                "Aquifer",
-                "Zeestroom",
-                "Piekafvoer"
-              ],
-              "juiste_antwoorden": [
-                0,
-                2
-              ],
-              "uitleg": "Diepwaterpomp en zeestroom horen bij 3.1 (Water in beweging). Aquifer hoort bij 3.2 (Water in balans) en piekafvoer bij 3.3 (Soms te veel)."
-            },
-            {
               "id": 73,
               "type": "invullen",
               "vraag": "Wanneer er in een gebied gewoon te weinig water is om aan de behoefte van de mensen te voldoen, spreken we van een ... watertekort.",
               "juiste_antwoord": "fysiek",
               "uitleg": "Bij een fysiek watertekort is er simpelweg te weinig water in het gebied om aan de waterbehoefte te voldoen. Dit in tegenstelling tot een economisch watertekort, waarbij het water er wel is maar niet bij de mensen gebracht kan worden."
-            },
-            {
-              "id": 74,
-              "type": "volgorde",
-              "vraag": "Zet de paragrafen van H3 in de juiste volgorde van hun onderwerp.",
-              "opties": {
-                "A": "Waterschaarste en wateroorlog",
-                "B": "Waterkringloop en zeestromen",
-                "C": "Overstromingsrisico's",
-                "D": "Waterbalans en duurzaam waterbeheer"
-              },
-              "juiste_antwoord": "1:B, 2:D, 3:C, 4:A",
-              "uitleg": "De volgorde is: 3.1 Water in beweging (waterkringloop, zeestromen), 3.2 Water in balans (waterbalans, duurzaam waterbeheer), 3.3 Soms te veel (overstromingen), 3.4 Vaak te weinig (waterschaarste, wateroorlog)."
             },
             {
               "id": 75,
